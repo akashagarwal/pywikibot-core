@@ -42,6 +42,8 @@ Our code is maintained on Wikimedia's `Gerrit installation <https://gerrit.wikim
 `learn <https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_access>`_ how to get
 started.
 
-.. image:: https://api.travis-ci.org/akashagarwal/pywikibot-core.png?branch=master
+Below is the travis-ci status of the fork - akashagarwal/pywikibot-core (branch - testing_travis-ci)
+
+.. image:: https://api.travis-ci.org/akashagarwal/pywikibot-core.png?branch=testing_travis-ci
    :alt: Build Status
    :target: https://travis-ci.org/akashagarwal/pywikibot-core
